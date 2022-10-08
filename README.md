@@ -6,7 +6,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fellipe_125)
 <a href = "https://m.facebook.com/fellipe.sillva.96995"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href = "https://www.linkedin.com/in/fellipe125-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ![FS's GitHub stats](https://github-readme-stats.vercel.app/api?username=fellipe157&show_icons=true&theme=green)
 
