@@ -1,4 +1,4 @@
-### Olá! eu sou Felipe Silva. </>
+### Olá! eu sou Felipe Silva ツ
 
 ### Futuro técnico em Desenvolvimento de Sistemas 🖥️
 
