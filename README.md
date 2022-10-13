@@ -1,6 +1,6 @@
 ### Olá! eu sou Felipe Silva ツ
 
-### Futuro técnico em Desenvolvimento de Sistemas 🖥️
+### Futuro técnico em programação 👨‍💻
 
 #
 
