@@ -1,6 +1,6 @@
 ### Olá! eu sou Felipe Silva ツ
 
-<img src="Studio.gif">
+<img src="Logo.gif">
 
 ### Futuro técnico em programação 👨‍💻
 
