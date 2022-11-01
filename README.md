@@ -14,8 +14,9 @@
 <img align="center" alt="David-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
-
-<p style="font_weight: bold"> • | Atualmente cursando Técnico em Desenvolvimento de Sistemas
+ㅤㅤㅤ
+<p style="font_weight: bold">
+• | Atualmente cursando Técnico em Desenvolvimento de Sistemas
 
 • | Estudante de ensino estadual profissionalizante<p/><p/>
 
