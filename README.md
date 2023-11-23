@@ -4,18 +4,12 @@
 
 ### Futuro técnico em programação 👨‍💻
 <div>
-  <a href="https://instagram.com/fellipe_125">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/fellipe125-/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
 </div>
 
-![FS's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fellipe157&show_icons=true&theme=merko)
+![FS's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fellipe157&theme=blue-green)
 
 <div>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador iuriCode" style="max-width: 100%;
@@ -40,7 +34,15 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 <div class="p3">
- 
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </div>
-
+<div>
+  <h2>Contatos</h2>
+  <a href="https://instagram.com/fellipe_125">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/fellipe125-/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
