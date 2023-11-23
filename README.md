@@ -1,6 +1,6 @@
 ### Olá! eu sou Felipe Silva ツ
 
-<img src="FelipeLogo.gif" href = "https://instagram.com/fellipe_125/">
+<img src="img/Felipegif.gif" href = "https://instagram.com/felipez_125/">
 
 ### Futuro técnico em programação 👨‍💻
 
@@ -27,4 +27,3 @@
  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
 </div>
 
-![Snake animation target="_blank"></a>](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
