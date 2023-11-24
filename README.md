@@ -18,7 +18,7 @@
 </div>
 ㅤㅤㅤ
 <p style="font_weight: bold">
-• | Atualmente cursando Técnico em Desenvolvimento de Sistemas
+• | Atualmente, cursando Técnico em Desenvolvimento de Sistemas
 
 • | Estudante de ensino estadual profissionalizante<p/><p/>
 
