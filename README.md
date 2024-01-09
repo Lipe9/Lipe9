@@ -1,6 +1,6 @@
 <i><b> Olá! eu sou Felipe Silva ツ
 
-<img src="img/Felipegif.gif" href = "https://instagram.com/felipez_125/">
+<img src="img/Felipe.gif" href = "https://instagram.com/felipez_125/">
 
 ### Futuro técnico em programação 👨‍💻
 <div>
