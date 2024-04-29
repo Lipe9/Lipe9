@@ -21,40 +21,38 @@
 • | Atualmente, cursando Técnico em Desenvolvimento de Sistemas.
 
 • | Estudante de ensino estadual profissionalizante.
+
+
 ### Tecnologias que já cursei:
 <div class="p1">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img  align="center" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
+  <img  align="center" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white">
+   <img  align="center" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white">
 </div>
-
 <div class="p2">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  
+  <img  align="center" src="https://img.shields.io/badge/JavaScript-00?style=for-the-badge&logo=javascript&logoColor=white">
+  <img  align="center" src="https://img.shields.io/badge/Java-00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img  align="center" src="https://img.shields.io/badge/C%2B%2B-00?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
-
-
+<div>
+ <img align="center" src="https://img.shields.io/badge/Kali Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=mariadb&logoColor=white">
+</div>
 <div class="p3">
- 
-  
 </div>
+
 
 ### Tecnologias que estou cursando:
+<div style="display: inline_block">
+  <img align="center" src="https://img.shields.io/badge/Dart-00?style=for-the-badge&logo=dart&logoColor=FFFFFF">
+  <img align="center" src="https://img.shields.io/badge/Flutter-00?style=for-the-badge&logo=flutter&logoColor=FFFFFF">
+</div>
 
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 
 
 <div>
   <h2>Contatos</h2>
-  <a href="https://instagram.com/fellipe_125">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/fellipe125-/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+  <a href="https://instagram.com/fellipe_125"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/fellipe125-/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 </i></b>
