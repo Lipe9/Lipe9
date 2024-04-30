@@ -5,7 +5,7 @@
 ### Futuro técnico em programação 👨‍💻
 <div>
   <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfolio-00?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
 </div>
 
