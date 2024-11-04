@@ -18,9 +18,9 @@
 </div>
 ㅤㅤㅤ
 <p style="font_weight: bold">
-• | Atualmente, cursando Técnico em Desenvolvimento de Sistemas.
+• | Técnico em Desenvolvimento de Sistemas - EP
 
-• | Estudante de ensino estadual profissionalizante.
+• | Atualmente, estagiário - ELETROMÓVEIS
 
 
 ### Tecnologias que já cursei:
