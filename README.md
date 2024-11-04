@@ -40,9 +40,6 @@
 </div>
 <div class="p3">
 </div>
-
-
-### Tecnologias que estou cursando:
 <div style="display: inline_block">
   <img align="center" src="https://img.shields.io/badge/Dart-00?style=for-the-badge&logo=dart&logoColor=FFFFFF">
   <img align="center" src="https://img.shields.io/badge/Flutter-00?style=for-the-badge&logo=flutter&logoColor=FFFFFF">
