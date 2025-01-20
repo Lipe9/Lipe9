@@ -12,7 +12,7 @@
 ![FS's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lipe9&theme=blue-green)
 
 <div>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350px" align="right" alt="Computador iuriCode" style="max-width: 100%;
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" align="right" alt="Computador iuriCode" style="max-width: 100%;
       position:relative;
       bottom: 150px";
 </div>
@@ -20,7 +20,7 @@
 <p style="font_weight: bold">
 • | Técnico em Desenvolvimento de Sistemas - EP
 
-• | Atualmente, estagiário - ELETROMÓVEIS
+• | Ex, estagiário - ELETROMÓVEIS
 
 
 ### Tecnologias que já cursei:
