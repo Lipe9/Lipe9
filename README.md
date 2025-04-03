@@ -18,9 +18,9 @@
 </div>
 ㅤㅤㅤ
 <p style="font_weight: bold">
-• | Técnico em Desenvolvimento de Sistemas - EP
+• | Técnico em Desenvolvimento de Sistemas.
 
-• | Ex, estagiário - ELETROMÓVEIS
+• | Graduação Ciências da Computação 1/4.
 
 
 ### Tecnologias que já cursei:
