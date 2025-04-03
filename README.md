@@ -20,7 +20,7 @@
 <p style="font_weight: bold">
 • | Técnico em Desenvolvimento de Sistemas.
 
-• | Graduação Ciências da Computação 1/4.
+• | Graduação em Ciências da Computação 1/4.
 
 
 ### Tecnologias que já cursei:
