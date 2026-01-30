@@ -2,13 +2,15 @@
 
 <img src="img/banner-lipe2.png" href = "https://instagram.com/felipez_125/">
 
+<div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="250px" align="right" alt="Computador iuriCode" style="max-width: 100%;>
+</div>
+
 ### Futuro Desenvolver Web 👨‍💻
 
 ![FS's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lipe9&theme=blue-green)
 ㅤㅤㅤ
-<div>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="250px" align="right" alt="Computador iuriCode" style="max-width: 100%;>
-</div>
+
 
 <p style="font_weight: bold">
 • | Técnico em Analise e Desenvolvimento de Sistemas.
@@ -35,5 +37,6 @@
 
 </div>
 </i></b>
+
 
 
