@@ -1,6 +1,6 @@
 <i><b> Olá! eu sou Felipe Silva ツ
 
-### Futuro Desenvolver Web 👨‍💻
+### Futuro Desenvolvedor Web 👨‍💻
 
 <img src="img/banner-lipe2.png" href = "https://instagram.com/felipez_125/">
 
