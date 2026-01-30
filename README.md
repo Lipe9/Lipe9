@@ -6,15 +6,17 @@
 
 ![FS's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lipe9&theme=blue-green)
 ㅤㅤㅤ
+<div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="250px" align="right" alt="Computador iuriCode" style="max-width: 100%;>
+</div>
+
 <p style="font_weight: bold">
 • | Técnico em Analise e Desenvolvimento de Sistemas.
 
 • | Bacharel em Ciências da Computação 3/8.
 </p>
 
-<div>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="80%" alt="Computador iuriCode" style="max-width: 100%;>
-</div>
+
 
 
 
@@ -33,4 +35,5 @@
 
 </div>
 </i></b>
+
 
