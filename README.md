@@ -1,6 +1,6 @@
 <i><b> Olá! eu sou Felipe Silva ツ
 
-<img src="img/banner-lipe.png" href = "https://instagram.com/felipez_125/">
+<img src="img/banner-lipe2.png" href = "https://instagram.com/felipez_125/">
 
 ### Futuro Desenvolver Web 👨‍💻
 
@@ -33,3 +33,4 @@
 
 </div>
 </i></b>
+
