@@ -25,7 +25,9 @@
 
 
 <h2>Tecnologias que já cursei:</h2>
+
 #
+
 <div class="p1">
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,c,cs,php,nodejs,py,java,flutter,dart,mysql)](https://skillicons.dev)
