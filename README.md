@@ -26,7 +26,6 @@
 
 <h2>Tecnologias que já cursei:</h2>
 
-#
 
 <div class="p1">
 
